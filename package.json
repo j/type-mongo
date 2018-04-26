@@ -1,6 +1,6 @@
 {
   "name": "type-mongo",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A no frills ES6 class to MongoDB document mapper.",
   "main": "build/main/src/index.js",
   "typings": "build/main/src/index.d.ts",

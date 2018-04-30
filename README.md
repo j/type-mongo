@@ -9,7 +9,7 @@
     </a>
 </p>
 
-**type-mongo** uses **type-mongo-mapper** under the hood and gives a repository layer for fetching and putting data
+**type-mongo** uses <a href="https://github.com/j/type-mongo-mapper">**type-mongo-mapper**</a> under the hood and gives a repository layer for fetching and putting data
 to/from MongoDB.  This library aims to be as simple and bare-bones as possible.  If you look at the Repository class,
 you'll see that it uses the MongoDB driver as raw as possible.  It does not do any change-set/dirty checking.  It simply
 provies a small wrapper above the collection class to provide class/document mapping.

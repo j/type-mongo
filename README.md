@@ -2,10 +2,10 @@
 <h3 align="center">A <a href="https://www.mongodb.com/">MongoDB</a> repository with ES6 class mapping</h3>
 <p align="center">
     <a href="https://travis-ci.org/j/type-mongo">
-        <img alt="Travis" src="https://img.shields.io/travis/j/type-mongo/preview.svg">
+        <img alt="travis" src="https://img.shields.io/travis/j/type-mongo/master.svg">
     </a>
-    <a href="https://codecov.io/gh/j/type-mongo/branch/preview">
-        <img alt="Travis" src="https://img.shields.io/codecov/c/github/j/type-mongo/preview.svg">
+    <a href="https://codecov.io/gh/j/type-mongo/branch/master">
+        <img alt="codecov" src="https://img.shields.io/codecov/c/github/j/type-mongo/master.svg">
     </a>
 </p>
 
@@ -17,7 +17,7 @@ provies a small wrapper above the collection class to provide class/document map
 ## Install
 
 ```sh
-yarn add type-mongo type-mongo-mapper
+yarn add type-mongo
 ```
 
 ## Usage

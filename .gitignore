@@ -5,5 +5,3 @@ coverage
 .nyc_output
 *.log
 .idea
-
-package-lock.json
